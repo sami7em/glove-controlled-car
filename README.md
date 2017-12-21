@@ -3,7 +3,7 @@ This is the major project I did with a partner for University.
 
 ![Glove Controlled Vehicle Gif](gcv-small.gif)
 
-## Major Components:
+## Major Components
 1. 2 Arduino Unos
 2. 2 nRF24L01 transceivers
 3. MPU-6050 acccelerometer/gyroscope
