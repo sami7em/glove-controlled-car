@@ -9,11 +9,11 @@ The references we used are provided below. I may have left some out since I made
 
 ## References:
 ### Inspiration: 
-- Youtube - nRF24L01 / Accelerometer RC Car: https://www.youtube.com/watch?v=IjUlqe-aeGU
-- Accompanying blog - nRF24L01 / Accelerometer RC Car: http://forcetronic.blogspot.ae/search?q=Accelerometer+RC+Car
+- Youtube: [nRF24L01 / Accelerometer RC Car](https://www.youtube.com/watch?v=IjUlqe-aeGU)
+- Accompanying blog: [nRF24L01 / Accelerometer RC Car](http://forcetronic.blogspot.ae/search?q=Accelerometer+RC+Car)
 ### Working of transceivers:
-- YouTube - 1-Day Project: Arduino and nRF24L01+ Data Transceiver: https://www.youtube.com/watch?v=wlhuO82IZjQ
-- Nrf24L01-2.4GHz-HowTo: http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo
+- YouTube: [1-Day Project: Arduino and nRF24L01+ Data Transceiver](https://www.youtube.com/watch?v=wlhuO82IZjQ)
+- Website: [Nrf24L01-2.4GHz-HowTo](http://arduino-info.wikispaces.com/Nrf24L01-2.4GHz-HowTo)
 ### Working of accelerometer/gyroscope:
-- Youtube video: MPU6050 First steps: https://www.youtube.com/watch?v=Z1M1B_719nk
-- Accompanying site: https://turnsouthat.wordpress.com/2015/07/31/arduino-mpu6050-getting-ready/
+- Youtube: [MPU6050 First steps](https://www.youtube.com/watch?v=Z1M1B_719nk)
+- Accompanying site: [Arduino – MPU6050 Getting Ready](https://turnsouthat.wordpress.com/2015/07/31/arduino-mpu6050-getting-ready/)
