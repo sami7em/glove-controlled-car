@@ -1,6 +1,6 @@
-# Glove Controlled Vehicle
+# Glove Controlled RC Car
 
-![Glove Controlled Vehicle Gif](gcv-small.gif)
+![Glove Controlled Car Gif](gcv-small.gif)
 
 *If you're looking to recreate this project then this is not a proper how-to but hopefully it's enough to get you started. I may make an instructable in the future and link it here but for the time being, here's what I have.*
 
