@@ -23,6 +23,6 @@ The resources we used are provided below. I may have left some out since I made 
 ### Working of accelerometer/gyroscope
 - Youtube: [MPU6050 First steps](https://www.youtube.com/watch?v=Z1M1B_719nk)
 - Accompanying website: [Arduino – MPU6050 Getting Ready](https://turnsouthat.wordpress.com/2015/07/31/arduino-mpu6050-getting-ready/)
-### Code
+## Code
 - [Glove code](glove_code.ino)
 - [Vehicle code](vehicle_code.ino)
